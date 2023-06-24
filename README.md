@@ -1,2 +1,4 @@
 # DSA
-* Tree
+* DP
+* Graph
+* Tree 
