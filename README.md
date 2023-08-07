@@ -1,4 +1,7 @@
 # DSA
-* 1.Dynamic Programming
-* 2.Tree
-* 3.Graph
+* DP
+* Graph
+* Tree 
+*commit 1
+*commit 2
+*commit 4
